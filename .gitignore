@@ -1,0 +1,4 @@
+dist
+python_stringhelpers.egg-info
+build
+stringhelpers/__pycache__

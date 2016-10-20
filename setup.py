@@ -3,7 +3,7 @@ from setuptools import setup
 VERSION = __import__("stringhelpers").__version__
 
 setup(
-    name='stringhelpers',
+    name='python_stringhelpers',
     description='A set of various string helpers.',
     version=VERSION,
     license='MIT',
