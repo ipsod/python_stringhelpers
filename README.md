@@ -3,7 +3,7 @@
 ### Install instructions
 Install via pip
 
-    $ pip install stringhelpers
+    $ pip install python_stringhelpers
 
 
 ### Quick Usage
