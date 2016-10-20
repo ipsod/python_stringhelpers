@@ -270,3 +270,8 @@ def strip_slashes(string):
     :param string: string to remove leading and trailing slashes from.
     """
     return string.rstrip('/',).lstrip('/')
+
+
+def strip_nonnumeric(string):
+    non_decimal = re.compile(r'[^\d.]+')
+    return non_decimal.sub('', string)

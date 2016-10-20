@@ -7,9 +7,9 @@ setup(
     description='A set of various string helpers.',
     version=VERSION,
     license='MIT',
-    author='Thomas Skaflem',
-    author_email='thomskaf@gmail.com',
-    url='https://github.com/thomskaf/stringhelpers',
+    author='Dusty Gamble',
+    author_email='dusty.gamble@gmail.com',
+    url='https://github.com/ipsod/python_stringhelpers',
     packages=['stringhelpers'],
     zip_safe=False,
     classifiers=[

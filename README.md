@@ -54,3 +54,5 @@ Install via pip
     True
     >>> print(strip_slashes('/foo/and/bar//'))
     foo/and/bar
+    >>> strip_nonnumeric('abc12d3')
+    '123'
